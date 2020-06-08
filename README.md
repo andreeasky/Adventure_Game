@@ -1,6 +1,6 @@
-# Adventure_Game
+# Adventure Game
 
-This is a simple version of an old-fashioned text-based adventure game. 
+This is a simple version of an old-fashioned text-based adventure game. This game is done in Python. 
 
 
 - The game gives players a description of what's happening, and then asks them to make a choice.
